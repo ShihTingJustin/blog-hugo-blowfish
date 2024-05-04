@@ -1,20 +1,20 @@
 {
-  "name": "blowfish_template",
+  "name": "blog-hugo-blowfish",
   "version": "1.0.0",
-  "description": "Blowfish Template",
+  "description": "blog",
   "main": "index.js",
   "scripts": {
     "dev": "hugo server --minify -D -E -F"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nunocoracao/blowfish_template.git"
+    "url": "git+https://github.com/ShihTingJustin/blog-hugo-blowfish.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Justin Huang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nunocoracao/blowfish_template/issues"
+    "url": "https://github.com/ShihTingJustin/blog-hugo-blowfish/issues"
   },
-  "homepage": "https://github.com/nunocoracao/blowfish_template#readme"
+  "homepage": "https://github.com/ShihTingJustin/blog-hugo-blowfish#readme"
 }
