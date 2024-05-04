@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "WebWorker"
+contentDir = "content/en"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "Insights from a web worker: Dive into quick notes and curated internet resources from a web development journey, alongside organized blog articles on web techniques, career growth, and insightful interviews."
+dateFormat = "2 January 2006"
+
+[author]
+name = "Justin Huang"
+image = "IMG_8561_square.jpg"
+headline = "This is my very simple profile website with my links"
+bio = "Senior Software Engineer@Delta Energy"
+links = [
+     { linkedin = "https://www.linkedin.com/in/justinhuang777" },
+     { github = "https://github.com/ShihTingJustin" },
+  ]

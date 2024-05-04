@@ -1,0 +1,26 @@
+languageCode = "zh-tw"
+languageName = "Traditional Chinese"
+weight = 2
+title = "WebWorker"
+contentDir = 'content/zh'
+
+
+[params]
+  displayName = "ZH"
+  isoCode = "zh-TW"
+  rtl = false
+  # logo = "img/logo.png"
+description = "Insights from a web worker: Dive into quick notes and curated internet resources from a web development journey, alongside organized blog articles on web techniques, career growth, and insightful interviews."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Justin Huang"
+  image = "img/avatar.png"
+  headline = "Um perfil simples com os meus links"
+  bio = "Senior Software Engineer@Delta Energy"
+  links = [
+     { linkedin = "https://www.linkedin.com/in/justinhuang777" },
+     { github = "https://github.com/ShihTingJustin" },
+   ]

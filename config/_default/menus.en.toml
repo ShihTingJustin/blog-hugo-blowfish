@@ -1,0 +1,26 @@
+[[main]]
+name = "Posts"
+pageRef = "posts"
+weight = 9
+
+[[main]]
+name = "Notes"
+pageRef = "notes"
+weight = 10
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+weight = 10
+
+[[main]]
+identifier = "linkedin"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/justinhuang777"
+weight = 50
+
+[[main]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/ShihTingJustin"
+weight = 60

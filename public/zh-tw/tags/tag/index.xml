@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on WebWorker</title>
+    <link>//localhost:1313/zh-tw/tags/tag/</link>
+    <description>Recent content in Tag on WebWorker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2024 Justin Huang</copyright>
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/zh-tw/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new-note</title>
+      <link>//localhost:1313/zh-tw/notes/1714812556763-new-note/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/zh-tw/notes/1714812556763-new-note/</guid>
+      <description>an example to get you started
+This is a heading # This is a subheading # This is a subsubheading # This is a subsubsubheading # This is a paragraph with bold and italic text.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/zh-tw/notes/1714812556763-new-note/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
