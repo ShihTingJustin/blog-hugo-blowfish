@@ -1,7 +1,7 @@
 languageCode = "zh-tw"
 languageName = "Traditional Chinese"
 weight = 2
-title = "WebWorker"
+title = "Renderer"
 contentDir = 'content/zh'
 
 
@@ -9,15 +9,14 @@ contentDir = 'content/zh'
   displayName = "ZH"
   isoCode = "zh-TW"
   rtl = false
-  # logo = "img/logo.png"
-description = "Insights from a web worker: Dive into quick notes and curated internet resources from a web development journey, alongside organized blog articles on web techniques, career growth, and insightful interviews."
+  logo = "react-logo.png"
+description = "Insights from a web enthusiast: Dive into quick notes and curated internet resources from a web development journey, alongside organized blog articles on web techniques, career growth, and insightful interviews."
   # copyright = "Copy, _right?_ :thinking_face:"
-
-dateFormat = "2 January 2006"
+dateFormat = "2006 January 2"
 
 [author]
   name = "Justin Huang"
-  image = "img/avatar.png"
+  image = "IMG_8561_square.jpg"
   headline = "Um perfil simples com os meus links"
   bio = "Senior Software Engineer@Delta Energy"
   links = [
