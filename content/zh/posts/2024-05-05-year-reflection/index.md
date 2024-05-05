@@ -194,7 +194,7 @@ draft: false
 大部分的技能都是在工作中學到的，少數是下班自學，這些技能不僅讓我在工作上更有自信，也讓我在面試時更有競爭力。另外 AI 工具 ChatGPT 和 GitHub Copilot 讓我在開發時更有效率，學習新技術時更快速，每個月花幾百塊直接變強非常划算。
 
 ### 心態成長
-![mot-vs-dis](https://github.com/ShihTingJustin/blog-hugo-blowfish/assets/56827791/e233bf5f-5416-447c-96b4-fde07480925a)
+![mot-vs-dis](https://i.imgur.com/ixOWg4R.gif)
 
 學習自律(Discipline)，而非依賴動力(Motivation)。自律是一種習慣，是一種能力，是一種態度，是一種信念，是一種內在的力量。
 定期整理筆記、學習新技術、運動、讀書、旅遊、投資等等，都是自律的一部分，這些習慣讓我在工作上更有自信，也讓生活更有樂趣，雖然有些項目還沒辦法達成完全的自律，但當踏出第一步時，我就比之前的自己更進步了。
@@ -203,16 +203,15 @@ draft: false
 回憶起當初，轉職第一份工作年薪是 5X，實在是太低了，所以當初只做三個月就逃了🤣。
 
 第二份剛開始是 7X，後來升等兩次，range 可參考公司職缺寫的 81 ~ 130。
-<img width="864" alt="shoalter-sr" src="https://github.com/ShihTingJustin/blog-hugo-blowfish/assets/56827791/59081558-0b7a-4881-b710-c0d9ccb11236">
+![shoalter-sr](https://i.imgur.com/DyrTVr9.png)
 
 
 第三份到台達，range 可參考 104 人力銀行所整理的[上市櫃薪資排行榜](https://www.104.com.tw/company/salary/all/)，中位數約 142。
-<img width="1291" alt="上市櫃薪資" src="https://github.com/ShihTingJustin/blog-hugo-blowfish/assets/56827791/ef9ce29b-f9b2-482c-8911-fd45022c93d2">
+![上市櫃薪資](https://i.imgur.com/Io7SDxZ.png)
 
 
 前陣子參考 104 人力銀行統計的[2024前端工程師薪水收入](https://guide.104.com.tw/salary/job/2007001015?analyze=workexp&salary=annual)，發現自己已經不在這個範圍內了，轉職三年能夠把薪資提升到這個程度，真的不是單純靠自己努力，過程中遇到許多貴人的幫助，像是：一起準備轉職且都比我優秀太多的 ALPHA Camp 同學們、轉職找第一份工作時願意錄取我的主管、幫助我內推達成第一次跳槽的朋友、剛進公司教我 React 怎麼寫的朋友、願意相信我給我學習機會和升等機會的主管、願意相信我與我合作的同事們、願意相信我並且給我一個火箭上的座位的主管。
-<img width="1291" alt="前端工程師薪資" src="https://github.com/ShihTingJustin/blog-hugo-blowfish/assets/56827791/7b4dc821-146d-4bb3-813c-aac3079f88bd">
-
+![2024前端工程師薪資](https://i.imgur.com/F1uTxZU.png)
 
 ---
 
