@@ -1,6 +1,6 @@
 ---
 title: "轉職後端工程師 24 場面試全記錄 — LINE TV/91APP/和泰聯網/緯創/仁寶/技嘉/精英/亞旭"
-summary: "這篇只是面試文，面試過程中也參考了許多網路分享，現在輪到自己來回饋了，對於求職心得有興趣請看「2020 轉職後端工程師心得」。以下面試的職缺都是後端工程師，或軟體工程師但職務內容是後端，語言以 node.js 為主。"
+summary: "這篇只是面試文，面試過程中也參考了許多網路分享，現在輪到自己來回饋了，對於求職心得有興趣請看「2020 轉職後端工程師心得」。"
 image: https://i.imgur.com/Nft41an.jpg
 categories: ["blog"]
 tags: ["ALPHA Camp", "Bootcamp", "Career", "SoftwareEngineer"]
@@ -10,12 +10,7 @@ date: 2020-12-29
 draft: false
 ---
 
-# 轉職後端工程師 24 場面試全記錄  — LINE TV/91APP/和泰聯網/緯創/仁寶/技嘉/精英/亞旭
-
-![img](https://i.imgur.com/Nft41an.jpg)
-Source: [https://insights.dice.com/2017/08/24/boss-may-pay-open-source-certifications/](https://insights.dice.com/2017/08/24/boss-may-pay-open-source-certifications/)
-
-這篇只是面試文，面試過程中也參考了許多網路分享，現在輪到自己來回饋了，對於求職心得有興趣請看[「2020 轉職後端工程師心得**」**](/blog/2020-12-29-2020-career-change-reflection)。以下面試的職缺都是後端工程師，或軟體工程師但職務內容是後端，語言以 node.js 為主。
+這篇只是面試文，面試過程中也參考了許多網路分享，現在輪到自己來回饋了，對於求職心得有興趣請看[《2020 轉職後端工程師心得》](/posts/2020-12-29-2020-career-change-reflection)。以下面試的職缺都是後端工程師，或軟體工程師但職務內容是後端，語言以 Node.js 為主。
 
 1. 方舟智慧
    做 3D 及 VR 影像，因疫情關係，想帶著既有技術跨入電商領域，正在建立網頁工程團隊，工程師由做 UI 也會寫 code 的產品長負責招募跟管理，面試我的是產品長跟營運長，公司員工多數有創業經驗。
@@ -24,13 +19,13 @@ Source: [https://insights.dice.com/2017/08/24/boss-may-pay-open-source-certifica
    面試問題：覺得公司在做什麼、有做過電商金流串接相關嗎、為什麼想轉工程師、PM 經驗對你的幫助或優勢、有跟前端合作的經驗嗎、全端開發跟前後分離差別、個人專案花了多久時間
 2. 學思行數位行銷
    經營讀冊生活 TAZZE 二手書交易平台，老闆是博客來的創辦人，因為在博客來的際遇被媒體稱為台版賈伯斯。老闆在博客來佔了快一半的股份，博客來滿賺錢的，所以公司資金來源很充足。
-   現在的網頁是主管以前在接案公司幫老闆開發的，由舊團隊維護(Java)，主管是年初回台加入讀冊，負責招募新團隊要做新版本的網頁，前端 Vue，後端 node.js，會加入老闆一直想做的內容營銷功能。
+   現在的網頁是主管以前在接案公司幫老闆開發的，由舊團隊維護(Java)，主管是年初回台加入讀冊，負責招募新團隊要做新版本的網頁，前端 Vue，後端 Node.js，會加入老闆一直想做的內容營銷功能。
    面試時間：40 min
    面試結果：offer
    面試問題：作品集、為什麼喜歡做後端、PM 經驗、AC 助教、AC 學習狀況、專案複雜的東西很多，有沒有同時 handle 複雜任務或事情的經驗
 3. DotZero 達易智造
    永進機械(70%)和研華(30%)的合資公司，營運跟永進，行銷跟研華，兩邊都會餵客戶過來，主要業務是協助客戶的工廠數位轉型，讓客戶可以監控並優化整體設備效率（Overall Equipment Effectiveness，OEE）。
-   主管以前在廣達當後端工程師，有推出過下載量幾百萬的 App，之後去了區塊鏈新創，加入達易是透過朋友介紹。管理風格偏向自由，事情做完就走，沒有硬性要求加班。前端 React，後端 node.js 跟 Go，已經開始慢慢把 node.js 改寫成 Go，資料庫 pg 架在 Azure。
+   主管以前在廣達當後端工程師，有推出過下載量幾百萬的 App，之後去了區塊鏈新創，加入達易是透過朋友介紹。管理風格偏向自由，事情做完就走，沒有硬性要求加班。前端 React，後端 Node.js 跟 Go，已經開始慢慢把 Node.js 改寫成 Go，資料庫 pg 架在 Azure。
    面試時間：1.5 hr
    面試結果：無聲卡
    面試問題：PM 經驗、作品集、討論作品後端架構、會排斥做前端嗎、AC 助教、AC 學習狀況
@@ -41,29 +36,29 @@ Source: [https://insights.dice.com/2017/08/24/boss-may-pay-open-source-certifica
    面試結果：無聲卡
    面試問題：PM 經驗、前公司的文化、偏好的產業、有投哪些公司、目前投的職缺都是後端嗎、AC 學習狀況、如果去問前公司的同事你的優缺點，會得到什麼樣的答案、有偏好大公司或小公司嗎、你覺得大公司跟小公司 對個人來說有什麼差別、如果大公司跟小公司都能同時達到你要求的點，那你會怎麼選擇、以轉職者來講，你有什麼優勢、情境題
 5. 圍棋人科技
-   線上圍棋對弈平台，主要用戶是小孩，有 AI 工程師開發 AI 可以跟小孩下棋，也有進階功能可以分析，幫助用戶精進下棋的技術。老闆據說曾是台灣圍棋最強段數的人。前端 Vue，後端 node.js + DynamoDB。
+   線上圍棋對弈平台，主要用戶是小孩，有 AI 工程師開發 AI 可以跟小孩下棋，也有進階功能可以分析，幫助用戶精進下棋的技術。老闆據說曾是台灣圍棋最強段數的人。前端 Vue，後端 Node.js + DynamoDB。
    面試時間：2 hr
    面試流程：HR ➡️ 主管
    面試結果：感謝信
    面試問題：對公司的理解、作品集、cookie 跟 JWT 兩個驗證機制的優缺點、Express middleware 的概念是什麼、middleware 會用在哪些地方、SQL 跟 NoSQL 差別、SQL 跟 NoSQL 效能瓶頸在哪裡、為什麼以前用 SQL 現在流行 NoSQL、運算資源(CPU)跟儲存資源(硬碟)的演進對於資料庫選擇的影響、知道資料庫正規化嗎、什麼是反正規化、白板題(跟公司產品有關)
 6. 大牛科技
-   辦公室在微風信義 35F ，很高級。先寫考卷(40mins)，考題算滿難的，包含：sort、物件導向、callback hell、Buffer、Stream、node.js 非同步運作原理、graceful shutdown、Memory leak、分散式系統、可用性(Availability) 、容錯分區(Partition tolerance)、一致性(Consistency)、微服務。
+   辦公室在微風信義 35F ，很高級。先寫考卷(40mins)，考題算滿難的，包含：sort、物件導向、callback hell、Buffer、Stream、Node.js 非同步運作原理、graceful shutdown、Memory leak、分散式系統、可用性(Availability) 、容錯分區(Partition tolerance)、一致性(Consistency)、微服務。
    面試時間：2.5 hr
    面試流程：HR ➡️ 主管
    面試結果：無聲卡
    面試問題：作品集、情境題
 7. 和泰聯網
-   Toyota 總代理和泰汽車全資子公司，做 MaaS。舊的產品 abc 好車網已經轉給集團其他事業體負責，目前在做 yoxi 叫車服務平台 + 紅利點數平台，目標是達到集團綜效，例如叫車服務得到的紅利點數可以折抵汽車保養費用。工程團隊約有 10 人包含 infra、前端(React)、後端(.net)，要再找兩個 node.js 後端，有些外包的系統是用 node.js，與外包商合約到期後要接回來維護。
+   Toyota 總代理和泰汽車全資子公司，做 MaaS。舊的產品 abc 好車網已經轉給集團其他事業體負責，目前在做 yoxi 叫車服務平台 + 紅利點數平台，目標是達到集團綜效，例如叫車服務得到的紅利點數可以折抵汽車保養費用。工程團隊約有 10 人包含 infra、前端(React)、後端(.net)，要再找兩個 Node.js 後端，有些外包的系統是用 Node.js，與外包商合約到期後要接回來維護。
    面試時間：1 hr
    面試流程：主管
    面試結果：感謝信
-   面試問題：node.js 如何處理非同步請求、作品集
+   面試問題：Node.js 如何處理非同步請求、作品集
 8. 悠福科技
    網路廣告相關的公司，與創辦人電話面試約 30 分鐘，前面主要是要了解求職者的背景及求職方向，之後就開放提問。
    研發團隊有 40 人，前端缺偏全端，可以接受 Jr.；後端職缺是純後端，需要理解架構設計、實作演算法資料結構等等，屬於 Sr. 職缺。
    面試結果：感謝信
 9. 技嘉科技
-   工作內容是維護內部 ERP 系統，除了辦公室，工廠端也會使用這套系統，瀏覽器會需要支援 IE。先上機考試，然後針對考試內容討論，接著進入履歷問答。前端 JSP，後端 node.js，有考慮改用 Vue。
+   工作內容是維護內部 ERP 系統，除了辦公室，工廠端也會使用這套系統，瀏覽器會需要支援 IE。先上機考試，然後針對考試內容討論，接著進入履歷問答。前端 JSP，後端 Node.js，有考慮改用 Vue。
    面試結果：感謝信，薪資無法符合要求
 10. 91APP (Infra)
     HR 主動邀約，單位是 Infra team，針對履歷及作品集問了一些問題之後，就讓求職者發問，最後問期望薪資時，會問面試者的期望薪資是怎麼決定的。
@@ -82,7 +77,7 @@ Source: [https://insights.dice.com/2017/08/24/boss-may-pay-open-source-certifica
     HR 電話面試約 15 分鐘，主要是了解求職者的意向，為什麼投這個職缺、求職方向、期望薪資
     面試結果：無聲卡
 14. 名留國際
-    美髮生醫集團，IT 研發部門由董事長特助直接管理，主要做內部系統 ERP 以及給店家使用的 POS，因為美髮業的分潤很複雜，所以 POS 花了很多心思在這塊。近期在準備做電商，也包含短網址等 Data 相關的系統。前端 React，後端 node.js，對外用 RESTful，對內用 GraphQL。
+    美髮生醫集團，IT 研發部門由董事長特助直接管理，主要做內部系統 ERP 以及給店家使用的 POS，因為美髮業的分潤很複雜，所以 POS 花了很多心思在這塊。近期在準備做電商，也包含短網址等 Data 相關的系統。前端 React，後端 Node.js，對外用 RESTful，對內用 GraphQL。
     面試時間：1 hr
     面試流程：主管
     面試結果：無聲卡
@@ -114,7 +109,7 @@ Source: [https://insights.dice.com/2017/08/24/boss-may-pay-open-source-certifica
     面試結果：無聲卡
     面試問題：知道公司是做什麼的嗎、作品集、自己評估 Express 的文件看了多少
 19. 亞旭電腦
-    近年新成立的團隊，主要做車聯網應用，這是純後端職缺。後端主服務用 node.js，使用 AWS Serverless 服務 API Gateway、Lambda、DynamoDB 等技術，數據分析用 Python。團隊有上過 AWS [SUMMIT ](https://aws.amazon.com/tw/summits/taipei/on-demand/tracks/track5/)及 [This is My Architecture](https://www.facebook.com/amazonwebservices.tw/photos/a.1569886796663109/2190156867969429/?type=3)。
+    近年新成立的團隊，主要做車聯網應用，這是純後端職缺。後端主服務用 Node.js，使用 AWS Serverless 服務 API Gateway、Lambda、DynamoDB 等技術，數據分析用 Python。團隊有上過 AWS [SUMMIT ](https://aws.amazon.com/tw/summits/taipei/on-demand/tracks/track5/)及 [This is My Architecture](https://www.facebook.com/amazonwebservices.tw/photos/a.1569886796663109/2190156867969429/?type=3)。
     面試時間：1 hr
     面試流程：HR ➡️ 主管
     面試結果：offer

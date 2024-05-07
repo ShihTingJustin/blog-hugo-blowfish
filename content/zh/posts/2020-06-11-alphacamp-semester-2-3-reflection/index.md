@@ -10,10 +10,6 @@ date: 2020-06-11
 draft: false
 ---
 
-# ALPHA Camp 學期2–3 自學經驗回顧
-
-![img](https://i.imgur.com/OsE7ovi.jpg)
-
 學期 2–3 正式開始進入後端開發的領域，使用的語言依舊是 Javascript，但環境從 broswer 換到了 server ，也開始接觸 Javascript 的執行環境 Node.js 及網路框架 Express。
 
 在寫作業時開始感受到前後端的區別，不論在 server 端多麼用力的使用 BOM or DOM 的相關語法，除了噴紅字以外是不會有任何回應的 😂
@@ -50,8 +46,8 @@ db.once('open', () => {
 結果發現不行，只能把`Record.create()`寫在`Category.find(`的 `.then()`裡面。如果還有要執行的動作，就要一直`.then()`下去...
 
 ```js copy showLineNumbers
-db.once('open', () => {
-  console.log('mongodb connected!');
+db.once("open", () => {
+  console.log("mongodb connected!");
 
   Category.find()
     .lean()
@@ -68,7 +64,7 @@ db.once('open', () => {
       }
     });
 
-  console.log('done!');
+  console.log("done!");
 });
 ```
 
@@ -117,5 +113,4 @@ shortenAsyncAwait();
 
 完整的程式碼可以在我的 GitHub 查看，喜歡的話歡迎 Fork 並幫我按個 Star 吧！
 
-[**ShihTingJustin/url_shortener**
-*A simple URL shortener website built with Node.js and Express. Shorten your URL Copy shortened URL by one-click Notice…*github.com](
+- [ShihTingJustin/url_shortener](https://github.com/ShihTingJustin/url_shortener)

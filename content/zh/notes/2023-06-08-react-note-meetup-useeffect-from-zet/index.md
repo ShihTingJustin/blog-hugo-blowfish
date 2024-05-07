@@ -88,7 +88,8 @@ FC 不需要
 > 函式在 FC 與 hooks 中是屬於資料流的一部分
 
 
-### useCallback useMemo 讓由原始資料產生出來的延伸資料能夠完全的參與資料流，並以 dependencies chain 維持 useEffect 的同步可靠性
+### Dependencies chain 
+useCallback useMemo 讓由原始資料產生出來的延伸資料能夠完全的參與資料流，並以 dependencies chain 維持 useEffect 的同步可靠性
 
 ### useReducer 是 dependencies chain 的合法作弊手段
 從動作分離更新...
