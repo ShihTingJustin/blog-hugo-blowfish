@@ -1,6 +1,6 @@
 ---
 title: "[Leetcode with JavaScript] 刷題筆記 - 刷題常用的三種解法 Brute Force, Hash Map, Two Pointers"
-summary: 這篇文章會透過上千題中 Leetcode 的第一題 Two Sum 及進階題 3Sum，來說明三種基本的解題方法，分別是暴力解(Brute Force)、雜湊表 Hash Table、雙指針 Two Pointers。如果你和我一樣是剛開始刷題的話，那就繼續看下去吧～
+summary: 這篇文章會透過上千題中 Leetcode 的第一題 Two Sum 及進階題 3Sum，來說明三種基本的解題方法，分別是暴力解(Brute Force)、雜湊表 Hash Table、雙指針 Two Pointers。
 image: https://i.imgur.com/PSbzbj9.png
 categories: ["blog"]
 tags:
@@ -20,18 +20,13 @@ date: 2020-08-30
 draft: false
 ---
 
-# [Leetcode with JavaScript] 刷題筆記  - 刷題常用的三種解法 Brute Force, Hash Map, Two Pointers
-
-![img](https://i.imgur.com/PSbzbj9.png)
-Source: [https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
-
-### 前言
+## 前言
 
 這個系列是在記錄參與 ALPHA Camp A+ 人才計畫的過程中，練習刷題的想法及筆記。
 
 這篇文章會透過上千題中 Leetcode 的第一題[Two Sum](https://leetcode.com/problems/two-sum/) 及進階題 [3Sum](https://leetcode.com/problems/3sum/)，來說明三種基本的解題方法，分別是**暴力解(Brute Force)**、**雜湊表 Hash Table**、**雙指針 Two Pointers**。如果你和我一樣是剛開始刷題的話，那就繼續看下去吧～
 
-### #1 Two Sum (Easy)
+## #1 Two Sum (Easy)
 
 > Given an array of integers `nums` and and integer `target`, return _the indices of the two numbers such that they add up to_ `*target*`.
 
@@ -49,7 +44,7 @@ Output: Because nums[0] + nums[1] == 9, we return [0, 1]
 
 題目給一個陣列 nums 及一個目標值 target，兩者都是整數，要找出兩個陣列元素相加後與目標值相等的元素之 index。
 
-### 暴力解 (Brute Force)
+## 暴力解 (Brute Force)
 
 這是我腦海中第一個想法，利用巢狀迴圈的 index i 和 j 一前一後遍歷題目給的陣列元素，再用 if 判斷兩個 index 取出的值相加後是否等於 target。
 
@@ -69,7 +64,7 @@ var twoSum = function (nums, target) {
 
 ![1_lx9WPQXvJxxPXXk_63guuQ](https://i.imgur.com/nefsG58.jpg)
 
-### 雜湊表 Hash Table
+## 雜湊表 Hash Table
 
 之後學了 Hash Table，先透過第一次 for 迴圈將陣列 nums 中所有的元素，以 key-value pair 型式記錄到物件 map 中，這時因為 map 還是空的所以不會進到 if 條件判斷。從第二次迴圈開始 map 有資料了程式就會進入 if 條件判斷，檢查遍歷的陣列元素和物件 map 中 key-value pair 的關係。
 
@@ -93,7 +88,7 @@ var twoSum = function (nums, target) {
 
 看起來很簡單的題目，其實可以練習到不同的解法，難怪有人說越簡單的題目，其實越困難！
 
-### #15 3Sum (Medium)
+## #15 3Sum (Medium)
 
 > Given an array `nums` of _n_ integers, are there elements _a_, _b_, _c_ in `nums` such that _a_ + _b_ + _c_ = 0? Find all unique triplets in the array which gives the sum of zero.
 
@@ -118,7 +113,7 @@ A solution set is:
 
 題目要求三個數字相加為 0，假設是 num1, num2, num3，如果像是 Two Sum 那樣，先讓 num1 固定不動，那 num2 + num3 就會是 num1 的相反數，因此關鍵是要在 num1 之後的數字中，找出兩數相加等於 num1 的相反數，這個時候就相當適合使用**雙指針 Two Pointers**。
 
-### 雙指針 Two Pointers
+## 雙指針 Two Pointers
 
 這個方法最重要的是 input 需為 sorted array，讓 nums 由小排到大，這樣當 num1 固定時，就可以讓 num2, num3 也就是左右指針，從 num1 之後的數字序列的「頭」和「尾」向中間「夾」。
 

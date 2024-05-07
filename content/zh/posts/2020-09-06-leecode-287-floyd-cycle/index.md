@@ -1,6 +1,6 @@
 ---
 title: "[Leetcode with JavaScript] 刷題筆記 — 特殊方法 Floyd's Cycle Detection"
-summary: 這是最近刷 Leetcode 學習到的特殊方法，適合拿來解尋找重複數字的題目， 如 Array 題型 287. Find the Duplicate Number，還能解答 Linked List 相關題型如 141. Linked List Cycle、142. Linked List Cycle II，覺得相當實用，因此決定寫成筆記，內容著重於應用在刷題，若想細究原理的讀者可以參考底下的 Reference #4 #5。
+summary: 這是最近刷 Leetcode 學習到的特殊方法，適合拿來解尋找重複數字的題目。
 image: https://i.imgur.com/k16HQ1G.png
 categories: ["blog"]
 tags:
@@ -20,16 +20,11 @@ date: 2020-09-06
 draft: false
 ---
 
-# [Leetcode with JavaScript] 刷題筆記 — 特殊方法 Floyd's Cycle Detection
-
-![img](https://i.imgur.com/k16HQ1G.png)
-Source: [1algo1week](https://1algo1week.warriorkitty.com/algorithm/2017/06/11/floyds-cycle-finding-algorithm.html)
-
-### 前言
+## 前言
 
 這是最近刷 Leetcode 學習到的特殊方法，適合拿來解尋找重複數字的題目， 如 Array 題型 **287. Find the Duplicate Number**，還能解答 Linked List 相關題型如 **141. Linked List Cycle、142. Linked List Cycle II**，覺得相當實用，因此決定寫成筆記，內容著重於應用在刷題，若想細究原理的讀者可以參考底下的 Reference #4 #5。
 
-### Floyd’s Cycle Detection
+## Floyd’s Cycle Detection
 
 有發現封面圖片上出現了烏龜與兔子嗎？因為這個演算法俗稱龜兔賽跑演算法。以下是原理及結論：
 
@@ -40,7 +35,7 @@ Source: [1algo1week](https://1algo1week.warriorkitty.com/algorithm/2017/06/11/fl
 
 接下來直接看題目實作吧！
 
-### 287. Find the Duplicate Number
+## 287. Find the Duplicate Number
 
 > Given an array of integers `nums` containing `n + 1` integers where each integer is in the range `[1, n]` inclusive.
 
@@ -103,7 +98,7 @@ var findDuplicate = function (nums) {
 
 這個方法也能應用在 Linked List 的題型，先來題簡單的：
 
-### 141. Linked List Cycle
+## 141. Linked List Cycle
 
 > Given a linked list, determine if it has a cycle in it.
 
@@ -142,7 +137,7 @@ var hasCycle = function (head) {
 };
 ```
 
-### 142. Linked List Cycle II
+## 142. Linked List Cycle II
 
 > Given a linked list, return the node where the cycle begins. If there is no cycle, return `null`.
 
@@ -180,7 +175,7 @@ var detectCycle = function (head) {
 };
 ```
 
-### Reference
+## Reference
 
 1. [If Programming Was An Anime](https://www.youtube.com/watch?v=pKO9UjSeLew)
 2. [判圈算法](https://blog.csdn.net/u011221820/article/details/78821464)
