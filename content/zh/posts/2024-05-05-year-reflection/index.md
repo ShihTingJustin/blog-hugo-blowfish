@@ -6,7 +6,7 @@ tags: ["Reflection", "Career", "SoftwareEngineer", "Senior"]
 #externalUrl: ""
 # showSummary: true
 date: 2024-05-05
-draft: true
+draft: false
 ---
 
 ## 前言
