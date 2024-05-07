@@ -16,11 +16,12 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "card"
+layout = "page"
+homepageImage = ""
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
-showMoreLinkDest = "/blowfish_lite/posts"
+showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
