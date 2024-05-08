@@ -6,7 +6,6 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 googleAnalytics = "G-1EQR8Q81BW"
-images = ['meta-image.png']
 description = "Insights from a web enthusiast: Dive into quick notes and curated internet resources from a web development journey, alongside organized blog articles on web techniques, career growth, and insightful interviews."
 
 [taxonomies]
