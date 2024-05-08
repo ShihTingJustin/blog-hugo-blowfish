@@ -69,4 +69,8 @@ showTermCount = true
 
 [fathomAnalytics]
 
+[buymeacoffee]
+identifier = "jhdev"
+globalWidget = true
+
 [verification]
