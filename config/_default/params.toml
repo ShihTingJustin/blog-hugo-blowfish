@@ -4,7 +4,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 mainSections = [ "posts" ]
-defaultBackgroundImage = "/default-background-image.png.png"
+defaultBackgroundImage = "/default-background-image.png"
 
 [header]
 layout = "fixed-gradient"
