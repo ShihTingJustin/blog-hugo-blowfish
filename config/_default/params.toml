@@ -4,7 +4,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 mainSections = [ "posts" ]
-defaultBackgroundImage = "/meta-image.png"
+defaultBackgroundImage = "/default-background-image.png"
 
 [header]
 layout = "fixed-gradient"
@@ -17,7 +17,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "page"
-homepageImage = "/meta-image.png"
+# homepageImage = "/meta-image.png"
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
