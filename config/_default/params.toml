@@ -17,7 +17,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "page"
-homepageImage = ""
+homepageImage = "/meta-image.png"
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
