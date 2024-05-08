@@ -4,7 +4,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 mainSections = [ "posts" ]
-defaultBackgroundImage = ""
+defaultBackgroundImage = "/meta-image.png"
 
 [header]
 layout = "fixed-gradient"
@@ -68,5 +68,9 @@ showTermCount = true
 [firebase]
 
 [fathomAnalytics]
+
+[buymeacoffee]
+identifier = "jhdev"
+globalWidget = true
 
 [verification]
