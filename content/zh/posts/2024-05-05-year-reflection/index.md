@@ -213,7 +213,7 @@ draft: false
 
 > 除了寫 UI component 之外，你還會做什麼？
 
-對於 Junior 或 Mid level 工程師聽到這句話，通常是丈二金剛摸不著頭緒，我不做這件事情我還要做什麼？
+對於 Junior 或 Mid level 工程師聽到這句話，通常是丈二金剛摸不著頭緒，我不做這些事情我還要做什麼？
 
 ![what](https://i.pinimg.com/736x/c0/bc/d2/c0bcd2002332ce7f1a4ff39c00c0a532.jpg)
 
