@@ -2,7 +2,20 @@
 title: "2021–2022 回顧 | 轉職軟體工程師後的第一年"
 summary: "2021 年發生的事情，可能會有點像流水帳，不過我還是有挑出進入業界後的幾個主題：心態調整、全端的重要性、強者姿態、新技術，有興趣就繼續看下去吧～"
 categories: ["blog"]
-tags: ["Reflection", "Career", "SoftwareEngineer"]
+tags:
+  [
+    "Reflection",
+    "Career",
+    "SoftwareEngineer",
+    "FrontendEngineer",
+    "BackendEngineer",
+    "回顧",
+    "轉職",
+    "職涯",
+    "軟體工程師",
+    "前端工程師",
+    "後端工程師",
+  ]
 #externalUrl: ""
 # showSummary: true
 date: 2022-02-25

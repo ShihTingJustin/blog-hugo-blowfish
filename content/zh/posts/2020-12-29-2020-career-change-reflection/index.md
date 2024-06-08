@@ -2,7 +2,21 @@
 title: "2020 轉職後端工程師心得"
 summary: "在今年八月底結束 ALPHA Camp 三個學期課程後即投入 A+ 人才計畫，該計畫旨在給參與者更上一層樓的機會，從 Junior 到 Junior+。這篇文章主要是記錄求職過程的心得，面試文請看「轉職後端工程師 24 場面試全記錄」。"
 categories: ["blog"]
-tags: ["ALPHA Camp", "Bootcamp", "Career", "SoftwareEngineer"]
+tags:
+  [
+    "ALPHA Camp",
+    "Bootcamp",
+    "Career",
+    "CareerChange",
+    "SoftwareEngineer",
+    "BackendEngineer",
+    "Reflection",
+    "職涯",
+    "轉職",
+    "軟體工程師",
+    "後端工程師",
+    "回顧",
+  ]
 #externalUrl: ""
 # showSummary: true
 date: 2020-12-29
@@ -102,5 +116,6 @@ AC 助教 PJCHENder、 Leo、Brian 及之前的同學 Tim 與我分享面試的�
 最後的最後，也要感謝自己，你真的走過來了，你很棒！
 
 想知道轉職之後的故事，可以看這幾篇文章
+
 - [2021–2022 回顧 | 轉職軟體工程師後的第一年](/posts/2022-02-25-year-reflection)。
 - [2022–2024 回顧 | 轉職軟體工程師後的第二、三年](/posts/2024-05-05-year-reflection)。

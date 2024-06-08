@@ -2,7 +2,19 @@
 title: "HKTV Group | Shoalter Technology 離職回顧"
 summary: "四月，是台灣的春天。在這個季節裡，天氣變化多端，忽冷忽熱。前一天還是陽光明媚，第二天可能就陰雨綿綿。職涯的新機會也是突如其來。"
 categories: ["blog"]
-tags: ["Career", "SoftwareEngineer", "Resignation"]
+tags:
+  [
+    "Career",
+    "SoftwareEngineer",
+    "FrontendEngineer",
+    "Resignation",
+    "Reflection",
+    "職涯",
+    "軟體工程師",
+    "前端工程師",
+    "離職",
+    "回顧",
+  ]
 #externalUrl: ""
 # showSummary: true
 date: 2024-03-18
