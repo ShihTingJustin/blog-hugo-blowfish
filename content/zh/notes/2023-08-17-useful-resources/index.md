@@ -1,7 +1,24 @@
 ---
 title: "Useful Resources"
 categories: ["note"]
-tags: ["Resource"]
+tags:
+  [
+    "Resource",
+    "WebDevelopment",
+    "JavaScript",
+    "Frontend",
+    "Backend",
+    "Career",
+    "Books",
+    "Youtube",
+    "Blog",
+    "Forum",
+    "SkillTree",
+    "Community",
+    "Package",
+    "Syntax",
+    "Interview",
+  ]
 #externalUrl: ""
 # showSummary: true
 date: 2023-08-17

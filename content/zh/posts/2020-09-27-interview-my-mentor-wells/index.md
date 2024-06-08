@@ -2,7 +2,17 @@
 title: 資深後端工程師訪談  —  Wells
 summary: Wells 助教是我在 ALPHA Camp A+計畫的 mentor。訪談內容包含了 Wells 助教現職、轉職的經驗以及給轉職者的求職建議，以下訪談內容是用第一人稱及一問一答的方式呈現，盡量保留原話的意思。
 categories: ["blog"]
-tags: ["ALPHA Camp", "Bootcamp", "Career", "SoftwareEngineer", "RoleModel"]
+tags:
+  [
+    "ALPHA Camp",
+    "Bootcamp",
+    "Career",
+    "SoftwareEngineer",
+    "RoleModel",
+    "職涯",
+    "軟體工程師",
+    "模範",
+  ]
 #externalUrl: ""
 # showSummary: true
 date: 2020-09-27

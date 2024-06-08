@@ -3,7 +3,22 @@ title: "轉職後端工程師 24 場面試全記錄 — LINE TV/91APP/和泰
 summary: "這篇只是面試文，面試過程中也參考了許多網路分享，現在輪到自己來回饋了，對於求職心得有興趣請看「2020 轉職後端工程師心得」。"
 image: https://i.imgur.com/Nft41an.jpg
 categories: ["blog"]
-tags: ["ALPHA Camp", "Bootcamp", "Career", "SoftwareEngineer"]
+tags:
+  [
+    "ALPHA Camp",
+    "Bootcamp",
+    "Career",
+    "CareerChange",
+    "SoftwareEngineer",
+    "BackendEngineer",
+    "Node.js",
+    "Interview",
+    "職涯",
+    "轉職",
+    "軟體工程師",
+    "後端工程師",
+    "面試",
+  ]
 #externalUrl: ""
 # showSummary: true
 date: 2020-12-29

@@ -2,7 +2,7 @@
 title: "Deep Copy in JavaScript"
 summary: Some methods to deep copy an object in JavaScript
 categories: ["note"]
-tags: ["JavaScript", "DeepCopy"]
+tags: ["JavaScript", "DeepCopy", "深拷貝", "深層複製"]
 #externalUrl: ""
 # showSummary: true
 date: 2022-11-02

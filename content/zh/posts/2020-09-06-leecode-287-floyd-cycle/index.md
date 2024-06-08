@@ -7,12 +7,14 @@ tags:
   [
     "ALPHA Camp",
     "Bootcamp",
-    "Career",
     "SoftwareEngineer",
     "LeetCode",
     "TwoPointers",
     "HashMap",
     "BruteForce",
+    "JavaScript",
+    "軟體工程師",
+    "刷題",
   ]
 #externalUrl: ""
 # showSummary: true

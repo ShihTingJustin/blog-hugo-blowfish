@@ -2,7 +2,19 @@
 title: "2022 台積電 TSMC IT 面試經驗 (BSID/TSID)"
 summary: "最近收到台積電 IT 的招募宣傳信，在個人 IG 上分享了一下，沒想到有不少朋友詢問我有關台積電 IT 的面試經驗，所以想說乾脆寫成一篇文章來分享一下。不過我面試台積電 IT 已經是 2022 年的事情了，所以相關資訊可能已經過時，請讀者自己斟酌參考。"
 categories: ["blog"]
-tags: ["Interview", "SoftwareEngineer", "TSMC", "IT"]
+tags:
+  [
+    "Interview",
+    "SoftwareEngineer",
+    "TSMC",
+    "IT",
+    "BSID",
+    "TSID",
+    "台積電",
+    "台積電 IT",
+    "軟體工程師",
+    "面試",
+  ]
 #externalUrl: ""
 # showSummary: true
 date: 2024-06-01

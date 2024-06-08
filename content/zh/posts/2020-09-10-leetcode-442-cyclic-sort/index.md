@@ -7,10 +7,13 @@ tags:
   [
     "ALPHA Camp",
     "Bootcamp",
-    "Career",
     "SoftwareEngineer",
     "LeetCode",
     "CyclicSort",
+    "JavaScript",
+    "排序",
+    "軟體工程師",
+    "刷題",
   ]
 #externalUrl: ""
 # showSummary: true
