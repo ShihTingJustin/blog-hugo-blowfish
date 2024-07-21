@@ -43,6 +43,11 @@ git config --local user.email johndoe@example.com
 git remote set-url origin <repo url>
 ```
 
+### Auto setup remote branch
+```sh copy
+git config --global --add --bool push.autoSetupRemote true
+```
+
 ## Tag
 
 Push branch and tag
