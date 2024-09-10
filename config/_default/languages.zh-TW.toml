@@ -1,7 +1,7 @@
 languageCode = "zh-tw"
 languageName = "Traditional Chinese"
 weight = 2
-title = "Renderer"
+title = "賈斯丁前端之路"
 contentDir = 'content/zh'
 
 
