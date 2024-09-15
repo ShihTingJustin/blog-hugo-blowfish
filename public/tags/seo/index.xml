@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SEO on 賈斯丁前端之路</title><link>//localhost:1313/tags/seo/</link><description>Recent content in SEO on 賈斯丁前端之路</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2024 Justin Huang</copyright><lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/seo/index.xml" rel="self" type="application/rss+xml"/><item><title>SEO 筆記</title><link>//localhost:1313/notes/2024-06-09-seo-note/</link><pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2024-06-09-seo-note/</guid><description> Google SEO 工具 # Google Analytics # Google Analytics Google Search Console # Google Search Console Google structured data # Introduction to structured data markup in Google Search Test your structured data Structured Data Markup Helper SEO meta data debug tools # Meta | Sharing Debugger LinkedIn Post Inspector</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SEO on 賈斯丁前端之路</title><link>//localhost:1313/tags/seo/</link><description>Recent content in SEO on 賈斯丁前端之路</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2024</copyright><lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/seo/index.xml" rel="self" type="application/rss+xml"/><item><title>SEO 筆記</title><link>//localhost:1313/notes/2024-06-09-seo-note/</link><pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2024-06-09-seo-note/</guid><description>&lt;h2 class="relative group">Google SEO 工具
+&lt;div id="google-seo-%E5%B7%A5%E5%85%B7" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#google-seo-%E5%B7%A5%E5%85%B7" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">Google Analytics
+&lt;div id="google-analytics" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#google-analytics" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://analytics.google.com" target="_blank">Google Analytics&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Google Search Console
+&lt;div id="google-search-console" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#google-search-console" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://search.google.com/search-console" target="_blank">Google Search Console&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 class="relative group">Google structured data
+&lt;div id="google-structured-data" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#google-structured-data" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data" target="_blank">Introduction to structured data markup in Google Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developers.google.com/search/docs/appearance/structured-data" target="_blank">Test your structured data&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.google.com/webmasters/markup-helper/u/0/" target="_blank">Structured Data Markup Helper&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">SEO meta data debug tools
+&lt;div id="seo-meta-data-debug-tools" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#seo-meta-data-debug-tools" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://developers.facebook.com/tools/debug/" target="_blank">Meta | Sharing Debugger&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/post-inspector/" target="_blank">LinkedIn Post Inspector&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

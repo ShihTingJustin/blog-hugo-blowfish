@@ -1,6 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on 賈斯丁前端之路</title><link>//localhost:1313/tags/blog/</link><description>Recent content in Blog on 賈斯丁前端之路</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2024 Justin Huang</copyright><lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>自架部落格筆記</title><link>//localhost:1313/notes/2024-06-09-self-hosting-blog-note/</link><pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2024-06-09-self-hosting-blog-note/</guid><description>框架 # Hugo: The world&amp;rsquo;s fastest framework for building websites Blowfish - A powerful, lightweight theme for Hugo. Hexo - A fast, simple &amp;amp; powerful blog framework 留言系統 # Disqus Utterances Giscus Converting an issue to a discussion - GitHub Docs</description></item><item><title>Useful Resources</title><link>//localhost:1313/notes/2023-08-17-useful-resources/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2023-08-17-useful-resources/</guid><description>Useful Resources # 技能樹 # Developer Roadmaps
-State of JavaScript
-State of CSS
-書籍 # JS 犀牛書
-Advanced React，作者 Nadia Makarevich 曾擔任 Atlassian 的前端架構師
-職涯 # 巴哈經典文 - 【密技】台灣軟體業業界現況詳解、軟體工程師指南 Youtube # Alex 宅幹嘛</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/notes/2023-08-17-useful-resources/featured-meta-image.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on 賈斯丁前端之路</title><link>//localhost:1313/tags/blog/</link><description>Recent content in Blog on 賈斯丁前端之路</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2024</copyright><lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>自架部落格筆記</title><link>//localhost:1313/notes/2024-06-09-self-hosting-blog-note/</link><pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2024-06-09-self-hosting-blog-note/</guid><description>&lt;h2 class="relative group">框架
+&lt;div id="%E6%A1%86%E6%9E%B6" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%A1%86%E6%9E%B6" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gohugo.io/" target="_blank">Hugo: The world&amp;rsquo;s fastest framework for building websites&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://blowfish.page/" target="_blank">Blowfish - A powerful, lightweight theme for Hugo.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://hexo.io/" target="_blank">Hexo - A fast, simple &amp;amp; powerful blog framework&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">留言系統
+&lt;div id="%E7%95%99%E8%A8%80%E7%B3%BB%E7%B5%B1" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E7%95%99%E8%A8%80%E7%B3%BB%E7%B5%B1" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://disqus.com/" target="_blank">Disqus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://utteranc.es/" target="_blank">Utterances&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://giscus.app/" target="_blank">Giscus&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://docs.github.com/en/discussions/managing-discussions-for-your-community/moderating-discussions#converting-an-issue-to-a-discussion" target="_blank">Converting an issue to a discussion - GitHub Docs&lt;/a>&lt;/p></description></item><item><title>Useful Resources</title><link>//localhost:1313/notes/2023-08-17-useful-resources/</link><pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2023-08-17-useful-resources/</guid><description>&lt;h1 class="relative group">Useful Resources
+&lt;div id="useful-resources" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#useful-resources" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;h3 class="relative group">技能樹
+&lt;div id="%E6%8A%80%E8%83%BD%E6%A8%B9" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%8A%80%E8%83%BD%E6%A8%B9" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://roadmap.sh/" target="_blank">Developer Roadmaps&lt;/a>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/notes/2023-08-17-useful-resources/featured-meta-image.png"/></item></channel></rss>
