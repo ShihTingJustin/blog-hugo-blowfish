@@ -1,2 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cookies on 賈斯丁前端之路</title><link>//localhost:1313/tags/cookies/</link><description>Recent content in Cookies on 賈斯丁前端之路</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2024 Justin Huang</copyright><lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/cookies/index.xml" rel="self" type="application/rss+xml"/><item><title>RFC</title><link>//localhost:1313/notes/2023-06-12-standards-and-documentation/</link><pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2023-06-12-standards-and-documentation/</guid><description>IETF Datatracker # RFC2616 # http
-RFC6265 # HTTP State Management Mechanism (eg. Cookies)</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cookies on 賈斯丁前端之路</title><link>//localhost:1313/tags/cookies/</link><description>Recent content in Cookies on 賈斯丁前端之路</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><copyright>© 2024</copyright><lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/cookies/index.xml" rel="self" type="application/rss+xml"/><item><title>RFC</title><link>//localhost:1313/notes/2023-06-12-standards-and-documentation/</link><pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate><guid>//localhost:1313/notes/2023-06-12-standards-and-documentation/</guid><description>&lt;h2 class="relative group">&lt;a href="https://datatracker.ietf.org/" target="_blank">IETF Datatracker&lt;/a>
+&lt;div id="ietf-datatrackerhttpsdatatrackerietforg" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#ietf-datatrackerhttpsdatatrackerietforg" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h4 class="relative group">&lt;a href="https://datatracker.ietf.org/doc/html/rfc2616" target="_blank">RFC2616&lt;/a>
+&lt;div id="rfc2616httpsdatatrackerietforgdochtmlrfc2616" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#rfc2616httpsdatatrackerietforgdochtmlrfc2616" aria-label="定位點">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>http&lt;/p></description></item></channel></rss>

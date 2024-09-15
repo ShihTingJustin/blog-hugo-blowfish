@@ -28,7 +28,7 @@ weight = 10
 [[main]]
 identifier = "linkedin"
 pre = "linkedin"
-url = "https://www.linkedin.com/in/justinhuang777"
+url = "https://dub.sh/lk-blog"
 weight = 50
 
 [[main]]
