@@ -18,6 +18,6 @@ image = "IMG_8561_square.jpg"
 headline = "This is my very simple profile website with my links"
 bio = "Senior Software Engineer@Delta Energy"
 links = [
-     { linkedin = "https://www.linkedin.com/in/justinhuang777" },
+     { linkedin = "https://dub.sh/lk-blog" },
      { github = "https://github.com/ShihTingJustin" },
   ]

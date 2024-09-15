@@ -20,6 +20,6 @@ dateFormat = "2006 January 2"
   headline = "Um perfil simples com os meus links"
   bio = "Senior Software Engineer@Delta Energy"
   links = [
-     { linkedin = "https://www.linkedin.com/in/justinhuang777" },
+     { linkedin = "https://dub.sh/lk-blog" },
      { github = "https://github.com/ShihTingJustin" },
    ]
