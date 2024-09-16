@@ -1,4 +1,5 @@
 theme = "blowfish"
+baseURL = "https://blog.jhdev.pro"
 defaultContentLanguage = "zh-TW"
 enableRobotsTXT = true
 paginate = 20
