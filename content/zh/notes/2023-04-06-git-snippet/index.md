@@ -50,6 +50,12 @@ git config --global --add --bool push.autoSetupRemote true
 
 ## Tag
 
+Fetch all tags
+
+```sh copy
+git fetch --tags
+```
+
 Push branch and tag
 
 ```sh copy
